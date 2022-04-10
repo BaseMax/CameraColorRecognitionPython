@@ -11,3 +11,5 @@ Color recognizer app which can detect colors from your **camera** using **Python
 ### TODO
 
 Supporting more colors
+
+**Note:** This app detects colors referring to **HSV** value and does not check **RGB**.
